@@ -21,9 +21,9 @@ I don't just learn. I ship.
 
 ---
 
-## What I'm Building
+## What I've Built
 
-### 🔭 LLM Brand Tracker — AI Brand Visibility Platform
+### LLM Brand Tracker — AI Brand Visibility Platform
 
 > *Free tool to track how ChatGPT, Gemini, Claude, Grok, Google AI, and Perplexity rank your brand*
 
@@ -68,7 +68,7 @@ I don't just learn. I ship.
 
 ```python
 lucky = {
-    "building"  : "LLM Brand Tracker — AI brand visibility platform",
+    "built"     : "LLM Brand Tracker — AI brand visibility platform",
     "learning"  : ["AI/ML", "LLM fine-tuning", "RAG pipelines"],
     "focused_on": ["GEO", "AEO", "AI brand intelligence"],
     "open_to"   : "Roles in AI product, automation, or full-stack dev",
